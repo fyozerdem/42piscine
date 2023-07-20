@@ -12,7 +12,7 @@
 | C05 | [80%](./C05)| 
 | C06 | [100%](./C06) | 
 | C07 |  [60%](./C07)| 
-| Exam00 | [40%] | 
-| Exam01 | [50%] | 
-| FINAL | [%54] | 
-| Rush00 | [100%] |
+| Exam00 | [40%](./Exam-Training) | 
+| Exam01 | [50%](./Exam-Training) | 
+| FINAL | [%54](./Exam-Training) | 
+| Rush00 | [100%](./) |
